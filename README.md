@@ -14,6 +14,8 @@ This is a simple Language Translation Desktop App built with Python using the tk
 
 💬 Error handling for empty input
 
+📸 GUI Preview
+✨ (Add a screenshot here if you wish, e.g., assets/translator.png)
 
 🛠️ Technologies Used
 Python 3.x
@@ -40,7 +42,7 @@ Run the file using any Python IDE or terminal:
 bash
 Copy
 Edit
-python https://raw.githubusercontent.com/Sarb-jot/Language-Translator-using-googletrans-api/main/Srivatsan/Translator-api-googletrans-using-Language-1.4.zip
+python language_translate.py
 Enter the text, source language (optional), and target language (optional), then click Translate.
 
 🧪 Example Inputs
